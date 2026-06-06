@@ -6,3 +6,4 @@
 - [Lab 4 Pixels and Icons](https://github.com/buddyMahoney/Lab4)
 
 ## Assignments
+- [Assignment 1 and Lab 4 Pixels and Icons](https://github.com/buddyMahoney/Lab4)
